@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{329D07A7-504F-05E0-1789-154DF0426EC8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NextLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="27" Column="10" />
+      <File FileName="Assets/Scripts/RestartScene.cs" />
+      <File FileName="Assets/Scripts/CopyPlayerPosition.cs" />
+      <File FileName="Assets/Scripts/NextLevel.cs" Line="36" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lanes 3D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="230dbf6e-baf6-4b4a-a6ab-fd8caa8b6cb2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
